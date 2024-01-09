@@ -24,11 +24,11 @@ La extructura del proyecto consiste en los siguientes archivos:
 
 1. Clona este repositorio:
 
-    ```git clone https://github.com/tu-usuario/tu-proyecto.git```
+    ```git clone https://github.com/PauYerAvan/herramienta_samurai.git```
 
 2. Instala las dependencias:
 
-    ```cd tu-proyecto```
+    ```cd herramienta_samurai```
 
     ```npm install```
 
