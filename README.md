@@ -3,6 +3,7 @@
 El objetivo es desarrollar una herramienta que lea las conversiones offline de un archivo CSV alojado en una url, las formatee para cumplir los requisitos de Facebook y las suba a su píxel de Facebook. Por lo tanto, se espera de esta prueba una herramienta que:
 
 1. Lea el archivo desde una URL.
+
 2. Formatee los datos y aplique hash a los campos obligatorios del archivo.
 
 3. Lo suba a Facebook, obteniendo una respuesta 200.
@@ -10,7 +11,7 @@ El objetivo es desarrollar una herramienta que lea las conversiones offline de u
 
 ## Estructura del proyecto
 
-La extructura del proyecto consiste en los siguientes archivos:
+La estructura del proyecto consiste en los siguientes archivos:
 
 - main.js:
 
@@ -47,7 +48,7 @@ Para su realización se han usado las siguientes dependencias:
 
 ## Uso
 
-Para poder ejecutar el proyecto en node.js se ha de ingresar el siguiente comando en consola:
+Para poder ejecutar el proyecto en node.js se ha de ingresar el siguiente comando:
 
 ```npm start```
 
